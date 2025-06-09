@@ -36,3 +36,7 @@ Focused on safeguarding systems through monitoring, analysis, and continuous imp
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eliabe%20Jordan-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/eliabe-jordan)
+
+[![WhatsApp](wa.me/5583999007790)
+
+[![E-mail](eliabeej@gmail.com)

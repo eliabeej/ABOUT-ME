@@ -1,38 +1,35 @@
-# ABOUT-ME
+# 👋 Olá, eu sou Eliabe Jordan
 
-# 👋 Hi, I'm Eliabe Jordan
-
-**Security Information Incident Analyst**  
-Focused on safeguarding systems through monitoring, analysis, and continuous improvement.
+**Analista de Incidentes de Segurança da Informação**  
+Focado na gestão do ciclo de vida dos incidentes de segurança da informação e garantia de conformidade com normas regulatórias.
 
 ---
 
-## 🛡️ About Me
+## 🛡️ Sobre Mim
 
-- Experienced in troubleshooting, debugging, and analysis of systems, logs, and events.
-- Skilled in monitoring interfaces and incident alerts, with a focus on actionable, executive reporting.
-- Adept at automating workflows with PowerShell and CMD scripting.
-- Hands-on management of Windows servers, virtualization, and IT infrastructure hardware and networks.
-- Knowledgeable in security frameworks (NIST, MITRE ATT&CK) and compliance standards (ISO 27001, LGPD, PCI-DSS-v4.0).
-- Passionate about implementing and reviewing security policies for robust governance and compliance.
-
----
-
-## 🚀 Interests
-
-- Governance & Compliance
-- Information Security & Cybersecurity
-- Artificial Intelligence (AI)
-- Incident Response
+- Experiência em troubleshooting, depuração e análise de sistemas, logs e eventos.
+- Habilidade em monitoramento de interfaces e alertas de incidentes, com foco em relatórios executivos e acionáveis.
+- Automação de fluxos de trabalho com scripts PowerShell e CMD.
+- Gestão prática de servidores Windows, virtualização e equipamentos de infraestrutura de TI (hardware e redes).
+- Conhecimento em frameworks de segurança (NIST, MITRE ATT&CK, CIS Controls) e padrões de conformidade (ISO 27001, LGPD, PCI-DSS-v4.0).
+- Experiência em implementação e revisão de políticas e procedimentos de segurança para garantia da governança e compliance robustos.
 
 ---
 
-## 📊 Featured Project
+## 🚀 Interesses
 
-[Security Incident Analysis Dashboard (Google Sheets)](https://docs.google.com/spreadsheets/d/1o4bxxH2LvWkRqxuSEBv82Vm609Ei92EVbBdz3eO9t7E/edit?usp=drive_link)
+- Governança & Compliance
+- Segurança da Informação & Cibersegurança
+- Inteligência Artificial (IA)
 
 ---
 
-## 📫 Connect with Me
+## 📊 Projeto em Destaque
+
+[Dashboard de Análise de Incidentes de Segurança (Google Sheets)](https://docs.google.com/spreadsheets/d/1o4bxxH2LvWkRqxuSEBv82Vm609Ei92EVbBdz3eO9t7E/edit?usp=drive_link)
+
+---
+
+## 📫 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eliabe%20Jordan-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/eliabe-jordan)

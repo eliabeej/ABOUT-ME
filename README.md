@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Eliabe Jordan
 
 **Analista de Incidentes de Segurança da Informação**  
-Focado na gestão do ciclo de vida dos incidentes de segurança da informação e garantia de conformidade com normas regulatórias.
+Focado na gestão do ciclo de vida dos incidentes de segurança da informação e garantia de conformidade e boas práticas de governança.
 
 ---
 
@@ -26,7 +26,7 @@ Focado na gestão do ciclo de vida dos incidentes de segurança da informação 
 
 ## 📊 Projeto em Destaque
 
-[Projeto de Governança e Conformidade - normas ISO, BACEN e PCI](https://drive.google.com/drive/folders/1Ks69LUVA6VHjE6JW1lWA93a7vcyy8yrn?usp=drive_link)
+Acesso aqui a pasta no Drive: [Projeto de Governança e Conformidade - normas ISO, BACEN e PCI](https://drive.google.com/drive/folders/1Ks69LUVA6VHjE6JW1lWA93a7vcyy8yrn?usp=drive_link)
 
 Este projeto visa criar mecanismos de adequação a conformidade regulatória de uma empresa fictícia de meios de pagamento, e está dividido nos seguintes passos:
 

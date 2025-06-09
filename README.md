@@ -26,7 +26,7 @@ Focado na gestão do ciclo de vida dos incidentes de segurança da informação 
 
 ## 📊 Projeto em Destaque
 
-[Projeto de Governança e Conformidade - normas ISO, BACEN e PCI](https://docs.google.com/spreadsheets/d/1o4bxxH2LvWkRqxuSEBv82Vm609Ei92EVbBdz3eO9t7E/edit?usp=drive_link)
+[Projeto de Governança e Conformidade - normas ISO, BACEN e PCI](https://drive.google.com/drive/folders/1Ks69LUVA6VHjE6JW1lWA93a7vcyy8yrn?usp=drive_link)
 
 Este projeto visa criar mecanismos de adequação a conformidade regulatória de uma empresa fictícia de meios de pagamento, e está dividido nos seguintes passos:
 

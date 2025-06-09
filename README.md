@@ -26,7 +26,25 @@ Focado na gestão do ciclo de vida dos incidentes de segurança da informação 
 
 ## 📊 Projeto em Destaque
 
-[Dashboard de Análise de Incidentes de Segurança (Google Sheets)](https://docs.google.com/spreadsheets/d/1o4bxxH2LvWkRqxuSEBv82Vm609Ei92EVbBdz3eO9t7E/edit?usp=drive_link)
+[Projeto de Governança e Conformidade - normas ISO, BACEN e PCI](https://docs.google.com/spreadsheets/d/1o4bxxH2LvWkRqxuSEBv82Vm609Ei92EVbBdz3eO9t7E/edit?usp=drive_link)
+
+Este projeto visa criar mecanismos de adequação a conformidade regulatória de uma empresa fictícia de meios de pagamento, e está dividido nos seguintes passos:
+
+1. Matriz de aderência - comparação entre os requisitos das normas ISO/IEC 27001:2022, Resolução Bacen 4893/2021 e norma PCI DSS v4.0;
+
+2. Criação de modelo de plano de ação priorizado para os requisitos não aderentes ou parcialmente aderentes (ação, requisito associado, prioridade, prazo de resolução, responsável e risco);
+
+3. Criação de uma POL ou POP que cubra o requisito não aderente, mantendo a estrutura formal de um documento corporativo: 
+
+• Título
+• Objetivo
+• Escopo
+• Definições
+• Diretrizes / etapas
+• Responsabilidades
+• Referências normativas
+
+4. Criação de mecanismos de monitoramento contínuo de aderência aos processos (diagrama).
 
 ---
 

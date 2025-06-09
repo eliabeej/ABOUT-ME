@@ -30,7 +30,7 @@ Focado na gestão do ciclo de vida dos incidentes de segurança da informação 
 
 Este projeto visa criar mecanismos de adequação a conformidade regulatória de uma empresa fictícia de meios de pagamento, e está dividido nos seguintes passos:
 
-1. Matriz de aderência - comparação entre os requisitos das normas ISO/IEC 27001:2022, Resolução Bacen 4893/2021 e norma PCI DSS v4.0;
+1. Matriz de aderência - comparação entre os requisitos das normas ISO/IEC 27001:2022, Resolução Bacen 4893/2021 e norma PCI DSS v4.0 (STATUS: EM ANDAMENTO);
 
 2. Criação de modelo de plano de ação priorizado para os requisitos não aderentes ou parcialmente aderentes (ação, requisito associado, prioridade, prazo de resolução, responsável e risco);
 
